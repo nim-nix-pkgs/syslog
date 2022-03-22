@@ -1,5 +1,5 @@
 {
-  description = ''Syslog module.'';
+  description = ''Minimal syslog support.'';
 
   inputs.flakeNimbleLib.owner = "riinr";
   inputs.flakeNimbleLib.ref   = "master";
@@ -9,13 +9,14 @@
   
   inputs.src-syslog-master.flake = false;
   inputs.src-syslog-master.owner = "FedericoCeratto";
-  inputs.src-syslog-master.ref   = "refs/heads/master";
+  inputs.src-syslog-master.ref   = "master";
   inputs.src-syslog-master.repo  = "nim-syslog";
   inputs.src-syslog-master.type  = "github";
   
   inputs."nake".owner = "nim-nix-pkgs";
   inputs."nake".ref   = "master";
   inputs."nake".repo  = "nake";
+  inputs."nake".dir   = "1_9_4";
   inputs."nake".type  = "github";
   inputs."nake".inputs.nixpkgs.follows = "nixpkgs";
   inputs."nake".inputs.flakeNimbleLib.follows = "flakeNimbleLib";
