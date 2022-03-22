@@ -8,8 +8,8 @@
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
   inputs.src-syslog-master.flake = false;
+  inputs.src-syslog-master.ref   = "refs/heads/master";
   inputs.src-syslog-master.owner = "FedericoCeratto";
-  inputs.src-syslog-master.ref   = "master";
   inputs.src-syslog-master.repo  = "nim-syslog";
   inputs.src-syslog-master.type  = "github";
   
