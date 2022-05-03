@@ -33,11 +33,11 @@
       },
       "locked": {
         "dir": "1_9_4",
-        "lastModified": 1650750391,
-        "narHash": "sha256-CJAF44YUpfjiwSCkv2vZZszolaq0EUT0MCrpckHeB+Q=",
+        "lastModified": 1651555678,
+        "narHash": "sha256-iDFYS2yeG9oAfVOiFgJn7hccVQNCtgy7EUZIvG14ZZw=",
         "owner": "nim-nix-pkgs",
         "repo": "nake",
-        "rev": "4ab1df62bbc4b1aa2020aa5b332a9ba1afbc4a70",
+        "rev": "eaf6509893aacfba511a945d4dc345435e138edc",
         "type": "github"
       },
       "original": {
@@ -50,8 +50,8 @@
     },
     "nixpkgs": {
       "locked": {
-        "narHash": "sha256-sK1Ow//80EKE3bAF5d+2gB8vPXw6m5TBk3wSLHvdVe0=",
-        "path": "/nix/store/0yqgkbpmsk7ck4s34wk505sfdd9vils4-source",
+        "narHash": "sha256-7sWpWRO0IsBP5jm9qCrpuzDkWC7UAghiCmZZ+1uqHKo=",
+        "path": "/nix/store/q2jrkx5a3z6yxzbfai0kxpnqki80jm3l-source",
         "type": "path"
       },
       "original": {
