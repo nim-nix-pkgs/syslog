@@ -182,11 +182,11 @@
       },
       "locked": {
         "dir": "1_9_4",
-        "lastModified": 1668754656,
-        "narHash": "sha256-jy6HHhmo0LUP6HgkLwTHCfK5uvVzBF+Q15FHC/R6GTs=",
+        "lastModified": 1668775950,
+        "narHash": "sha256-gt6h3caeqDpD8CIvICElvL78ZxpXHaCuKFrVGHVAfiE=",
         "owner": "nim-nix-pkgs",
         "repo": "nake",
-        "rev": "b2ba0364c7aa84897a3d717af4d8112f767896f9",
+        "rev": "e678cbee5d5985119313e302901624a88bf26a11",
         "type": "github"
       },
       "original": {
